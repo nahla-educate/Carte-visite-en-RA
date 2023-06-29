@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="carteV" size="8.000000 4.800000" />
+    <ImageTarget name="carteVisite" size="8.000000 4.800000" />
+    <ImageTarget name="127462599_117318963406573_7381183730988066804_n" size="6.000000 8.000000" />
+  </Tracking>
+</QCARConfig>
