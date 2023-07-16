@@ -16,4 +16,3 @@ unity 2020.3.26.
 * Run it.
 
 ## Screenshots
-![unitycarte - Copy](https://github.com/nahla-educate/Carte-visite-en-RA/assets/80469651/ff84185c-3578-4742-8a05-7f4ac5601739)
